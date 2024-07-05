@@ -1,0 +1,44 @@
+
+body
+{
+    background-color: rgba(213, 185, 185, 0.216);
+}
+/* #resume-form
+{
+    display: none;
+} */
+#resume-template
+{
+    display: none;
+    font-family: times new roman;
+}
+.background{
+    background-color:aqua;
+}
+h1.text-center
+{
+    color:rgb(21, 0, 255) ;
+}
+/* .upload
+{
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 200px;
+} */
+.upload
+{
+    width: 200px;
+    height: 200px
+
+}
+
+#display_image
+{
+    background-image:url("image/Default\ Profile.jpg") ;
+    width: 200px; ;
+    height: 200px;
+    border: 1px solid black;
+    border-radius:200px ;
+    background-size: cover;
+    margin: auto;
+}
